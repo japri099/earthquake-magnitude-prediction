@@ -127,7 +127,7 @@ print("Prediksi Magnitude untuk lokasi baru:", prediksi_mag[0])
 <ul>
   <li><a href="https://scikit-learn.org/stable/" target="_blank">Scikit-learn Documentation</a></li>
   <li><a href="https://pandas.pydata.org/docs/" target="_blank">Pandas Documentation</a></li>
-  <li><a href="https://www.bmkg.go.id/gempabumi/gempabumi-terkini.bmkg" target="_blank">BMKG Earthquake Data</a></li>
+  <li><a href="https://www.kaggle.com/datasets/kekavigi/earthquakes-in-indonesia" target="_blank">BMKG Earthquake Dataset Kaggle</a></li>
 </ul>
 
 <hr>
